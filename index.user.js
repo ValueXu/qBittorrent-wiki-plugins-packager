@@ -1,10 +1,14 @@
 // ==UserScript==
-// @name         qBittorrent-wiki-plugins-packager(一键下载qBittorrent插件文件)
+// @name         qBittorrent-wiki-plugins-packager
+// @name:zh-CN  一键下载qBittorrent插件文件
 // @namespace    http://tampermonkey.net/
-// @version      1.0.0
-// @description  Package and download qBittorrent unoffical public plugins's .py files on qBittorrent plugin wiki page.(自动下载qbittorrent公用插件py文件并保存到压缩包中)
+// @version      1.0.1
+// @description  Package and download qBittorrent unoffical public plugins's .py files on qBittorrent plugin wiki page.
+// @description:zh-CN 自动下载qbittorrent公用插件py文件并保存到压缩包中
 // @author       ValueGreasyFork
 // @homepage     https://github.com/ValueXu/qBittorrent-wiki-plugins-packager/
+// @homepageURL  https://github.com/ValueXu/qBittorrent-wiki-plugins-packager/
+// @supportURL   https://github.com/ValueXu/qBittorrent-wiki-plugins-packager/issues
 // @match        https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins
 // @icon         http://github.com/favicon.icoa
 // @require      https://cdnjs.cloudflare.com/ajax/libs/jszip/3.9.1/jszip.min.js
