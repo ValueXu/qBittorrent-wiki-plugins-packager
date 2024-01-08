@@ -11,6 +11,7 @@
 // @grant        GM_xmlhttpRequest
 // @grant        GM_notification
 // @grant        GM_download
+// @license      MIT
 // ==/UserScript==
 
 // must add this requirement for jszip 3.10.x. For the reason, see the issuses below
