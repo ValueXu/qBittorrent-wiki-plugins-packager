@@ -19,7 +19,7 @@ You must have this browser plugin installed, you can find the plugin here. [home
 ### - Method 1
 
 Use **[GreasyFork](https://greasyfork.org/)**.
-Search `qBittorrent-wiki-plugins-packager` on GreasyFork, or click this [link](https://greasyfork.org/zh-CN/scripts/484217-qbittorrent-wiki-plugins-packager), then install it. Tampermonkey should let you confirm it.
+Search `qBittorrent-wiki-plugins-packager` on GreasyFork, or click this [link](https://greasyfork.org/scripts/484217), then install it. Tampermonkey should let you confirm it.
 
 ### - Method 2
 
