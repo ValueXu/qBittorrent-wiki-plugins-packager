@@ -32,4 +32,4 @@ If you installed successfully, a download button should appeare in the lower rig
 
 ## About privacy
 
-Tampermonkey may warn you this plugin require cross site resources. You can allow it to download files, because this plugin's code is total opensource and harmless to you.See the [repository](https://github.com/ValueXu/qBittorrent-wiki-plugins-packager/) and [license](https://github.com/ValueXu/qBittorrent-wiki-plugins-packager//LICENSE)
+Tampermonkey may warn you this plugin require cross site resources. You can allow it to download files, because this plugin's code is total opensource and harmless to you.See the [repository](https://github.com/ValueXu/qBittorrent-wiki-plugins-packager/) and [license](https://github.com/ValueXu/qBittorrent-wiki-plugins-packager/blob/main/LICENSE)
